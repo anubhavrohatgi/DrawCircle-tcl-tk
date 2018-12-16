@@ -24,15 +24,15 @@ Draw a circle using tcl/tk. Digitising cirlces
 14.Ran a few using wish interpreter.
     eg. 	$ wish hello
 15. From my researcher acumen, I have referenced documentation from here :
-	https://www.tcl.tk/doc/
-	http://zetcode.com/lang/tcl/
-	http://www.tkdocs.com/
-	https://www.tutorialspoint.com/tcl-tk/tk_canvas_rectangle.htm
-	http://pages.cpsc.ucalgary.ca/~saul/personal/archives/Tcl-Tk_stuff/tcl_examples/
-	https://core.tcl.tk/tklib/doc/trunk/embedded/www/tklib/files/modules/canvas/canvas_epoints.html
-	http://www.sciviews.org/recipes/tcltk/TclTk-event-binding/
-	http://wiki.tcl.tk/18055
-	http://wiki.tcl.tk/884
+	- https://www.tcl.tk/doc/
+	- http://zetcode.com/lang/tcl/
+	- http://www.tkdocs.com/
+	- https://www.tutorialspoint.com/tcl-tk/tk_canvas_rectangle.htm
+	- http://pages.cpsc.ucalgary.ca/~saul/personal/archives/Tcl-Tk_stuff/tcl_examples/
+	- https://core.tcl.tk/tklib/doc/trunk/embedded/www/tklib/files/modules/canvas/canvas_epoints.html
+	- http://www.sciviews.org/recipes/tcltk/TclTk-event-binding/
+	- http://wiki.tcl.tk/18055
+	- http://wiki.tcl.tk/884
 
 Improvements
 
