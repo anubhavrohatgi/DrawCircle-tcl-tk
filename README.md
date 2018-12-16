@@ -60,6 +60,8 @@ Improvements
 
 
 	
+![alt text](https://raw.githubusercontent.com/anubhavrohatgi/DrawCircle-tcl-tk/edit/master/Solution1Draw.png)
+![alt text](https://raw.githubusercontent.com/anubhavrohatgi/DrawCircle-tcl-tk/edit/master/Solution2Circlefit.png)
 
 
 
